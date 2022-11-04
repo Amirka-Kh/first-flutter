@@ -23,9 +23,9 @@ class AppTheme {
   );
 
   static const TextStyle subHeading = TextStyle(
-    color: Colors.white,
-    fontSize: 24,
-    fontWeight: FontWeight.w500,
+    color: Colors.black,
+    fontSize: 16,
+    fontWeight: FontWeight.w400,
     inherit: true,
   );
 }

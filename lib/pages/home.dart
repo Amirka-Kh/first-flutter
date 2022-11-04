@@ -18,7 +18,10 @@ class _HomePage extends State<HomePage> {
   ];
 
   var _jokeIndex = 0;
-  final _favourites = <String>{};
+  final _favourites = [
+    "Chuck Norris can tell time on a compass.",
+    "Chuck Norris invented the Shotgun Enema.",
+  ];
 
   @override
   Widget build(BuildContext context) {
@@ -75,6 +78,7 @@ class _HomePage extends State<HomePage> {
               return ListTile(
                 title: Text(
                   joke,
+                  style: AppTheme.subHeading,
                 ),
               );
             },
