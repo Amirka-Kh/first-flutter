@@ -4,7 +4,7 @@ A new Flutter project.
 
 ---
 
-Download APK [here](https://github.com/Amirka-Kh/first-flutter/blob/main/build/app/outputs/apk/release/app-release.apk)
+Download APK [here](https://github.com/Amirka-Kh/first-flutter/blob/main/app-release.apk)
 
 ![](https://github.com/Amirka-Kh/first-flutter/blob/main/assets/images/ic1.png)
 ![](https://github.com/Amirka-Kh/first-flutter/blob/main/assets/images/ic2.png)
