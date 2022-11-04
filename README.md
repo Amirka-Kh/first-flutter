@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+---
+
+Download APK [here](https://github.com/Amirka-Kh/first-flutter/blob/main/build/app/outputs/apk/release/app-release.apk)
+
+![](https://github.com/Amirka-Kh/first-flutter/blob/main/assets/images/ic1.png)
+![](https://github.com/Amirka-Kh/first-flutter/blob/main/assets/images/ic2.png)
+
+---
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
